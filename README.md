@@ -15,12 +15,12 @@ The organization needs clear visibility into weekly credit card performance to a
 
 The objective of this project is to transform raw transactional and customer data into actionable insights that enable data-driven targeting, performance monitoring, and strategic planning.
 
-## Dataset
+## 🗂️ Dataset
 The analysis is based on the following datasets:
 - [`credit_card.csv`](data/credit_card.csv)
   Contains weekly credit card transaction data including transaction amount, interest earned, expenditure type, card category, average utilization ratio and related transactional metrics.
 
-- `customer.csv`  
+- [`customer.csv`](data/customer.csv)
   Contains customer demographic and financial attributes including age group, gender, income group, job type, education level and credit limit.
 
 ## ⚙️ Methods  
