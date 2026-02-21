@@ -107,7 +107,7 @@ Key outcomes include:
 This project demonstrates strong capabilities in data modeling, DAX measure development, KPI tracking, and business-oriented dashboard design using Power BI.
 
 ## 📁 Repository Content  
-- `Credit Card Weekly Analysis.pbix` – Power BI Dashboard File  
-- `data`– Raw and processed datasets  
-- `assets/` – Dashboard (Transaction Report & Customer Report)  
-- `README.md` – Project documentation  
+- [`Credit Card Weekly Analysis Dashboard.pbix`](./Credit%20Card%20Weekly%20Analysis%20Dashboard.pbix) – Power BI Dashboard File  
+- [`data`](./data) – Raw and processed datasets  
+- [`assets`](./assets) – Dashboard (Transaction Report & Customer Report)  
+- [`README.md`](./README.md) – Project documentation  
