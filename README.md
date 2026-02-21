@@ -67,7 +67,7 @@ The analysis is based on the following datasets:
 
 ## 📈 Dashboard  
 
-
+[`Dashboard Preview`](./assets/Credit%20Card%20Weekly%20Analysis%20Dashboard.pdf)
 
 This project contains two report pages:
 
